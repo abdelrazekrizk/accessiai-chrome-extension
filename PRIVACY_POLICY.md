@@ -1,7 +1,7 @@
 # Privacy Policy for AccessiAI Chrome Extension
 
-**Effective Date**: January 15, 2025  
-**Last Updated**: January 15, 2025
+**Effective Date**: November 01, 2025  
+**Last Updated**: November 01, 2025 
 
 ## Overview
 

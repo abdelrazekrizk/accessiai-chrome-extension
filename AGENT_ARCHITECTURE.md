@@ -446,10 +446,8 @@ interface AgentSecurity {
 
 ## 📚 Related Documentation
 
-- [System Architecture](doc/documentation/architecture/SYSTEM_ARCHITECTURE.md) - Complete system design
-- [API Contracts](doc/documentation/architecture/API_CONTRACTS.md) - Agent interface specifications
-- [Implementation Guide](doc/documentation/specs/IMPLEMENTATION_GUIDE.md) - Development guidelines
-- [Performance Monitoring](doc/documentation/architecture/MONITORING_SETUP.md) - Performance framework
+- [API Contracts](./API_CONTRACTS.md) - Agent interface specifications
+
 
 ---
 
@@ -457,6 +455,6 @@ interface AgentSecurity {
 
 **8-Agent Architecture** | **Sub-second Performance** | **Privacy-First Design**
 
-[🏗️ Architecture](doc/documentation/architecture/) • [📊 Performance](doc/Build_Test_Results/) • [🚀 Implementation](doc/documentation/specs/) • [🤝 Collaboration](doc/Integration_Phase_Template/)
+[🏗️ Architecture] • [📊 Performance] • [🚀 Implementation] • [🤝 Collaboration]
 
 </div>

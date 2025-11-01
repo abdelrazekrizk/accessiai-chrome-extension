@@ -324,6 +324,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for a more accessible web**
 
-[🌐 Website](https://your-website.com) • [📧 Contact](mailto:contact@your-email.com) • [🐛 Issues](https://github.com/your-repo/issues) • [💬 Discussions](https://github.com/your-repo/discussions)
+[🌐 Website](https://your-website.com) • [📧 Contact](mailto:contact@your-email.com) • [🐛 Issues](https://github.com/abdelrazekrizk/accessiai-chrome-extension/issues) • [💬 Discussions](https://github.com/your-repo/discussions)
 
 </div>
