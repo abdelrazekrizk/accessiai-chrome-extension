@@ -1,0 +1,53 @@
+{
+  "name": "accessiai-chrome-extension",
+  "version": "2.0.0",
+  "description": "AccessiAI - 8-Agent AI-Powered Accessibility Assistant",
+  "main": "dist/background.js",
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "build": "webpack --mode=production",
+    "dev": "webpack --mode=development --watch",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint src/**/*.ts --fix",
+    "format": "prettier --write src/**/*.ts",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "accessibility",
+    "ai",
+    "chrome-extension",
+    "wcag",
+    "assistive-technology",
+    "transformers",
+    "machine-learning"
+  ],
+  "author": "AccessiAI Team",
+  "license": "MIT",
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "ts-loader": "^9.5.1",
+    "copy-webpack-plugin": "^12.0.2",
+    "@types/chrome": "^0.0.276",
+    "@types/ws": "^8.5.12",
+    "@types/node": "^22.7.9",
+    "eslint": "^9.13.0",
+    "@typescript-eslint/eslint-plugin": "^8.10.0",
+    "@typescript-eslint/parser": "^8.10.0",
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.14",
+    "ts-jest": "^29.2.5",
+    "prettier": "^3.3.3",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
